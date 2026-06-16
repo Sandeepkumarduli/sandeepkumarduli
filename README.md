@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeep%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Platform%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeep%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&fontFamily=Source%20Code%20Pro&desc=AI%20Platform%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 </div>
 
@@ -12,7 +12,7 @@
 ### `< Building things that ship. />`
 
 **AI Platform Engineer • Full Stack Developer • Builder**  
-Passionate about BGMI, micro-SaaS, and automating everything that can be automated.
+Shipping enterprise AI at Novartis by day — building esports platforms & automating content pipelines by night.
 
 [![RD Tournaments](https://img.shields.io/badge/RD%20Tournaments-rdtournaments.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://rdtournaments.com)
 [![TournaRise](https://img.shields.io/badge/TournaRise-tournarise.com-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://tournarise.com)
@@ -30,28 +30,12 @@ role        : AI Platform Engineer & Full-Stack Developer
 status      : 🔨 Building in Production
 
 active_projects:
-  - TournaRise       → BGMI Tournament Platform (tournarise.com)
+  - TournaRise       → Esports Tournament Platform (tournarise.com)
   - AskNovartis      → Enterprise AI Chat (Novartis)
-  - BGMI Blog        → Automated AI Content Pipeline (Prefect + GPT-4o)
+  - Esports Blog     → Automated AI Content Pipeline (Prefect + GPT-4o)
   - Alviss           → Enterprise Search System (Novartis)
   - System Agent     → AI Agent that talks to your OS and executes tasks
 ```
-
----
-
-## 🤖 System Agent *(Active Development)*
-
-> **An AI agent that talks directly to your operating system and executes real tasks — file management, shell commands, process automation, and more.**
-
-```
-User: "Organize my Downloads folder by file type"
-Agent → scans directory → categorizes files → executes shell commands → reports back ✅
-```
-
-**Capabilities:** Shell execution · File I/O · Process management · Task scheduling · OS-level automation  
-**Stack:** Python · LangGraph · FastAPI · subprocess · OpenAI · LangChain
-
-`os-automation` `agentic` `langgraph` `real-tasks` `shell`
 
 ---
 
@@ -62,9 +46,9 @@ Agent → scans directory → categorizes files → executes shell commands → 
 <td width="50%">
 
 ### 🎮 TournaRise
-> **BGMI Tournament Platform** · Production
+> **Esports Tournament Platform** · Production
 
-Full-featured tournament platform for competitive BGMI players and organizers — built solo from architecture to deployment.
+Full-featured tournament platform for competitive esports players and organizers — built solo from architecture to deployment.
 
 **Stack:** Next.js 14 · TypeScript · Tailwind · FastAPI · Supabase · Razorpay · Render · Vercel
 
@@ -73,7 +57,7 @@ Full-featured tournament platform for competitive BGMI players and organizers �
 </td>
 <td width="50%">
 
-### 📰 BGMI AI Content Pipeline
+### 📰 Esports AI Content Pipeline
 > **Automated Blog Engine** · In Development
 
 Three-pipeline content automation system (news · sensitivity settings · mobile rankings) with structured LLM output and zero manual effort.
@@ -81,6 +65,25 @@ Three-pipeline content automation system (news · sensitivity settings · mobile
 **Stack:** Prefect Cloud · GPT-4o-mini · litellm · instructor · Supabase · Render
 
 `orchestration` `llm` `automation` `scraping`
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🤖 System Agent *(Active Development)*
+> **OS-level AI Agent** · Personal
+
+An AI agent that talks directly to your operating system and executes real tasks — file management, shell commands, process automation, and more.
+
+```
+User: "Organize my Downloads folder by file type"
+Agent → scans directory → categorizes files → executes shell commands → reports back ✅
+```
+
+**Stack:** Python · LangGraph · LangChain · FastAPI · subprocess · OpenAI
+
+`os-automation` `agentic` `langgraph` `real-tasks` `shell`
 
 </td>
 </tr>
@@ -206,7 +209,7 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 ### 🕹️ Fun Facts
 
 ```
-🎮  I build platforms for games I actually play (BGMI)
+🏆  I build esports platforms from the ground up — solo
 🤖  I use AI tooling daily — Cursor, Claude Code, Copilot
 ⚡  Solo dev → I own the full stack, always
 🔁  If it's repetitive, I automate it
@@ -215,3 +218,5 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<div align="center"><i>Built with ❤️ and too many open tabs</i></div>
