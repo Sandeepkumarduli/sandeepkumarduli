@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeepkumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20Production-Grade%20Platforms"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeep%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Platform%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 </div>
 
@@ -9,14 +9,14 @@
 
 <div align="center">
 
-### `< Building things that ship. />` 
+### `< Building things that ship. />`
 
 **AI Platform Engineer • Full Stack Developer • Builder**  
 Passionate about BGMI, micro-SaaS, and automating everything that can be automated.
 
-[![Portfolio](https://img.shields.io/badge/TournaRise-tournarise.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://tournarise.com)
+[![RD Tournaments](https://img.shields.io/badge/RD%20Tournaments-rdtournaments.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://rdtournaments.com)
+[![TournaRise](https://img.shields.io/badge/TournaRise-tournarise.com-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://tournarise.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepkumarduli)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 </div>
 
@@ -25,67 +25,116 @@ Passionate about BGMI, micro-SaaS, and automating everything that can be automat
 ## 🧭 Current Focus
 
 ```yaml
-name        : Sandeep
-role        : Full-Stack Developer (Solo)
+name        : Sandeep Kumar
+role        : AI Platform Engineer & Full-Stack Developer
 status      : 🔨 Building in Production
-open_to     : Freelance • Collabs • Interesting Problems
 
 active_projects:
-  - TournaRise     → BGMI Tournament Platform (tournarise.com)
-  - AskNovartis    → Enterprise AI Chat (Novartis)
-  - BGMI Blog      → Automated Content Pipeline (Prefect + GPT-4o)
-  - Alviss         → Enterprise Search System (Novartis)
+  - TournaRise       → BGMI Tournament Platform (tournarise.com)
+  - AskNovartis      → Enterprise AI Chat (Novartis)
+  - BGMI Blog        → Automated AI Content Pipeline (Prefect + GPT-4o)
+  - Alviss           → Enterprise Search System (Novartis)
+  - System Agent     → AI Agent that talks to your OS and executes tasks
 ```
 
 ---
 
-## 🏗️ Flagship Projects
+## 🤖 System Agent *(Active Development)*
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+> **An AI agent that talks directly to your operating system and executes real tasks — file management, shell commands, process automation, and more.**
 
-<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
+```
+User: "Organize my Downloads folder by file type"
+Agent → scans directory → categorizes files → executes shell commands → reports back ✅
+```
+
+**Capabilities:** Shell execution · File I/O · Process management · Task scheduling · OS-level automation  
+**Stack:** Python · LangGraph · FastAPI · subprocess · OpenAI · LangChain
+
+`os-automation` `agentic` `langgraph` `real-tasks` `shell`
+
+---
+
+## 🏗️ Personal Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎮 TournaRise
-**BGMI Tournament Platform** · Production
+> **BGMI Tournament Platform** · Production
 
 Full-featured tournament platform for competitive BGMI players and organizers — built solo from architecture to deployment.
 
-**Stack:** Next.js 14 • TypeScript • Tailwind • FastAPI • Supabase • Razorpay • Render • Vercel
+**Stack:** Next.js 14 · TypeScript · Tailwind · FastAPI · Supabase · Razorpay · Render · Vercel
 
-</div>
+`auth` `teams` `WebSockets` `payments` `real-time`
 
-<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
+</td>
+<td width="50%">
+
+### 📰 BGMI AI Content Pipeline
+> **Automated Blog Engine** · In Development
+
+Three-pipeline content automation system (news · sensitivity settings · mobile rankings) with structured LLM output and zero manual effort.
+
+**Stack:** Prefect Cloud · GPT-4o-mini · litellm · instructor · Supabase · Render
+
+`orchestration` `llm` `automation` `scraping`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Career Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AskNovartis
-**Enterprise AI Chat** · Novartis Internal
+> **Enterprise AI Chat** · Novartis Internal
 
 Agentic chat interface for enterprise knowledge workers — SSE streaming, Adaptive Cards, push notifications, and Mermaid diagram rendering.
 
-**Stack:** React • TypeScript • FastAPI • Azure OpenAI • SSE • WNS
+**Stack:** React · TypeScript · FastAPI · Azure OpenAI · SSE · WNS
 
-</div>
+`streaming` `adaptive-cards` `push-notifs` `enterprise`
 
-<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
-
-### 📰 BGMI Content Pipeline
-**Automated Blog Engine** · In Development
-
-Three-pipeline content automation system (news • sensitivity settings • mobile rankings) with structured LLM output and zero manual work.
-
-**Stack:** Prefect Cloud • GPT-4o-mini • litellm • instructor • Supabase • Render
-
-</div>
-
-<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
+</td>
+<td width="50%">
 
 ### 🔍 Alviss Search
-**Enterprise Search System** · Novartis Internal
+> **Enterprise Search System** · Novartis Internal
 
 Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pipeline, and SvelteKit frontend with streaming AI mode.
 
-**Stack:** SvelteKit • FastAPI • OpenSearch • Azure OpenAI • LightRAG
+**Stack:** SvelteKit · FastAPI · OpenSearch · Azure OpenAI · LightRAG
 
-</div>
+`rag` `hybrid-search` `embeddings` `enterprise`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Freelance Work
+
+<div align="center">
+
+[![SRM Distance](https://img.shields.io/badge/SRM%20Distance%20Education-srmistdistanceeducation.in-4f46e5?style=flat-square&logoColor=white)](https://srmistdistanceeducation.in/)&nbsp;&nbsp;
+[![Boaz ITS](https://img.shields.io/badge/Boaz%20ITS-boazits.com-0ea5e9?style=flat-square&logoColor=white)](https://boazits.com/)&nbsp;&nbsp;
+[![JDG Technocrafts](https://img.shields.io/badge/JDG%20Technocrafts-jdgtechnocrafts.in-10b981?style=flat-square&logoColor=white)](https://jdgtechnocrafts.in/)
+
+[![RV Tours & Travels](https://img.shields.io/badge/RV%20Tours%20%26%20Travels-rvtoursandtravels.com-f59e0b?style=flat-square&logoColor=white)](https://rvtoursandtravels.com/)&nbsp;&nbsp;
+[![RD Tournaments](https://img.shields.io/badge/RD%20Tournaments-rdtournaments.com-7c3aed?style=flat-square&logoColor=white)](https://rdtournaments.com/)&nbsp;&nbsp;
+[![Softype](https://img.shields.io/badge/Softype-softype.com-ec4899?style=flat-square&logoColor=white)](https://softype.com/)
+
+[![SafexPest](https://img.shields.io/badge/SafexPest-safexpest.com-84cc16?style=flat-square&logoColor=white)](https://safexpest.com/)&nbsp;&nbsp;
+[![Dedicon](https://img.shields.io/badge/Dedicon-dedicon.in-f97316?style=flat-square&logoColor=white)](https://dedicon.in/)
 
 </div>
 
@@ -94,14 +143,6 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 ## ⚙️ Tech Stack
 
 <div align="center">
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 **Backend**
 
@@ -115,6 +156,8 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1c1c1c?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **DevOps & Infra**
 
@@ -122,12 +165,21 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white)
 
 **AI Tooling**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 </div>
 
@@ -137,20 +189,13 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumarduli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumarduli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<a href="https://github.com/sandeepkumarduli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumarduli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandeepkumarduli&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🚀 Launch **TournaRise** to public with Razorpay payments live
-- [ ] 📰 Ship **BGMI automated blog** pipeline to production
-- [ ] 🌐 Grow tournarise.com to first 100 active users
-- [ ] 🤖 Explore **AI agent** integrations across personal projects
-- [ ] 📦 Open-source at least one internal tool
 
 ---
 
@@ -168,3 +213,5 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<div align="center"><i>Built with ❤️ and too many open tabs</i></div>
