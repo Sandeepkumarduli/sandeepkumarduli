@@ -219,4 +219,4 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-<div align="center"><i>Built with ❤️ and too many open tabs</i></div>
+
