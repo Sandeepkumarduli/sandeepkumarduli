@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeep&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandeep&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20Production-Grade%20Platforms"/>
 
 </div>
 
@@ -11,12 +11,12 @@
 
 ### `< Building things that ship. />` 
 
-**Solo full-stack developer crafting production-grade platforms and enterprise systems.**  
+**AI Platform Engineer • Full Stack Developer • Builder**  
 Passionate about BGMI, micro-SaaS, and automating everything that can be automated.
 
 [![Portfolio](https://img.shields.io/badge/TournaRise-tournarise.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://tournarise.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepkumarduli)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 </div>
 
@@ -41,60 +41,53 @@ active_projects:
 
 ## 🏗️ Flagship Projects
 
-<table>
-<tr>
-<td width="50%">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+
+<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
 
 ### 🎮 TournaRise
-> **BGMI Tournament Platform** · Production
+**BGMI Tournament Platform** · Production
 
-A full-featured tournament platform for competitive BGMI players and organizers — built solo from architecture to deployment.
+Full-featured tournament platform for competitive BGMI players and organizers — built solo from architecture to deployment.
 
-**Stack:** Next.js 14 · TypeScript · Tailwind · FastAPI · Supabase · Razorpay · Render · Vercel
+**Stack:** Next.js 14 • TypeScript • Tailwind • FastAPI • Supabase • Razorpay • Render • Vercel
 
-`auth` `teams` `WebSockets` `payments` `real-time`
+</div>
 
-</td>
-<td width="50%">
+<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
 
 ### 🤖 AskNovartis
-> **Enterprise AI Chat** · Novartis Internal
+**Enterprise AI Chat** · Novartis Internal
 
-Agenic chat interface for enterprise knowledge workers — SSE streaming, Adaptive Cards, push notifications, and Mermaid diagram rendering.
+Agentic chat interface for enterprise knowledge workers — SSE streaming, Adaptive Cards, push notifications, and Mermaid diagram rendering.
 
-**Stack:** React · TypeScript · FastAPI · Azure OpenAI · SSE · WNS
+**Stack:** React • TypeScript • FastAPI • Azure OpenAI • SSE • WNS
 
-`streaming` `adaptive-cards` `push-notifs` `enterprise`
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
 
 ### 📰 BGMI Content Pipeline
-> **Automated Blog Engine** · In Development
+**Automated Blog Engine** · In Development
 
-Three-pipeline content automation system (news · sensitivity settings · mobile rankings) with structured LLM output and zero manual work.
+Three-pipeline content automation system (news • sensitivity settings • mobile rankings) with structured LLM output and zero manual work.
 
-**Stack:** Prefect Cloud · GPT-4o-mini · litellm · instructor · Supabase · Render
+**Stack:** Prefect Cloud • GPT-4o-mini • litellm • instructor • Supabase • Render
 
-`orchestration` `llm` `automation` `scraping`
+</div>
 
-</td>
-<td width="50%">
+<div style="border: 1px solid #30363d; border-radius: 5px; padding: 20px; background: #0d1117;">
 
 ### 🔍 Alviss Search
-> **Enterprise Search System** · Novartis Internal
+**Enterprise Search System** · Novartis Internal
 
 Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pipeline, and SvelteKit frontend with streaming AI mode.
 
-**Stack:** SvelteKit · FastAPI · OpenSearch · Azure OpenAI · LightRAG
+**Stack:** SvelteKit • FastAPI • OpenSearch • Azure OpenAI • LightRAG
 
-`rag` `hybrid-search` `embeddings` `enterprise`
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -144,14 +137,8 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumarduli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumarduli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -178,10 +165,6 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 🔁  If it's repetitive, I automate it
 ```
 
----
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-*Built with ❤️ and too many open tabs*
-
-</div>
