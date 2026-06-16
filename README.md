@@ -189,11 +189,13 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 
 <div align="center">
 
-<a href="https://github.com/sandeepkumarduli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumarduli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandeepkumarduli&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7)](https://github.com/sandeepkumarduli)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandeepkumarduli&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepkumarduli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&area_color=7c3aed)](https://github.com/sandeepkumarduli)
+
+> 💡 *Most work happens in private enterprise repos (Novartis) and private project repos — public stats reflect only open contributions.*
 
 </div>
 
