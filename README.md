@@ -190,7 +190,7 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 <div align="center">
 
 <a href="https://github.com/sandeepkumarduli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumarduli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumarduli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sandeepkumarduli&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
@@ -213,5 +213,3 @@ Hybrid AI search over enterprise knowledge bases — OpenSearch indexing, RAG pi
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-<div align="center"><i>Built with ❤️ and too many open tabs</i></div>
